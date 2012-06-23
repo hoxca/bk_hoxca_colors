@@ -1,5 +1,5 @@
-" ir_black color scheme
-" More at: http://blog.infinitered.com/entries/show/8
+" bk_hoxca_colors color scheme
+" ir_black http://blog.infinitered.com/entries/show/8
 " Modified by Hoxca
 
 
@@ -61,7 +61,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "ir_black_mod"
+let colors_name = "bk_hoxca_colors"
 
 
 "hi Example         guifg=NONE        guibg=NONE        gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
